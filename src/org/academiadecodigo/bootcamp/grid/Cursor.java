@@ -1,4 +1,4 @@
-package bootcamp.grid;
+package org.academiadecodigo.bootcamp.grid;
 
 import org.academiadecodigo.simplegraphics.graphics.Color;
 

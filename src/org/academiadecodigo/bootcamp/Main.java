@@ -1,4 +1,4 @@
-package bootcamp;
+package org.academiadecodigo.bootcamp;
 
 import org.academiadecodigo.bootcamp.utils.KeyboardController;
 

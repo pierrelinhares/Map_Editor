@@ -1,4 +1,4 @@
-package bootcamp.utils;
+package org.academiadecodigo.bootcamp.utils;
 
 import java.io.*;
 

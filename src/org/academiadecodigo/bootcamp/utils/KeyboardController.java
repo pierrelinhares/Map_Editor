@@ -1,4 +1,4 @@
-package bootcamp.utils;
+package org.academiadecodigo.bootcamp.utils;
 
 import org.academiadecodigo.bootcamp.MapEditor;
 import org.academiadecodigo.bootcamp.grid.Cursor;
